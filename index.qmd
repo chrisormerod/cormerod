@@ -28,13 +28,13 @@ title: "Home"
 
 ::: {.hero-inner}
 
-<p class="eyebrow">Psychometrics &mdash; Data Science &mdash;  NLP &mdash; systems biology &mdash; integrable systems</p>
+<p class="eyebrow">Data science &mdash; NLP &mdash; systems biology &mdash; integrable systems</p>
 
 # Structure, wherever you <em>look for it</em>
 
 <p class="lede">I'm Christopher Ormerod. I work at the point where language models, biological networks, and the symmetries of discrete dynamical systems turn out to be asking the same kinds of questions.</p>
 
-<p class="role"><b>Executive Director of Natural Language Measurement</b>, College Board &middot; Co-chair, <a href="https://www.ncme-aime.org">NCME&nbsp;AIME</a></p>
+<p class="role"><b>Principal Data Scientist</b>, Cambium Assessment &middot; Co-chair, <a href="https://www.ncme-aime.org">NCME&nbsp;AIME</a></p>
 
 <p class="role">
 <a href="mailto:"><img src="images/mail.256x256.png" width="22" style="vertical-align:middle;margin-right:10px;"></a>

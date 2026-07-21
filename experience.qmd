@@ -4,64 +4,73 @@ title: "Experience"
 
 # Education
 
-- University of Sydney: Bachelor of Advanced Science: Pure Mathematics, 2000-2003
-
-- University of Sydney: Doctor of Philosophy: Applied Mathematics, 2004-2008
+::: {.plain-list}
+-   University of Sydney: Bachelor of Advanced Science, Pure Mathematics, 2000&ndash;2003
+-   University of Sydney: Doctor of Philosophy, Applied Mathematics, 2004&ndash;2008
+:::
 
 # Positions
 
-- 2008-2010 : Postdoctoral Researcher at Melbourne University
+::: {.timeline}
 
-- 2010-2013 : Lecturer and Research Fellow at La Trobe University
+::: {.timeline-item}
+<span class="years">2020&ndash;present</span>
+<span class="role">Principal Data Scientist, Cambium Assessment</span>
+:::
 
-- 2013-2016 : Olga-Tausky-Todd Instructor at Caltech
+::: {.timeline-item}
+<span class="years">2017&ndash;2020</span>
+<span class="role">Principal Mathematician, American Institutes for Research</span>
+:::
 
-- 2016-2017 : Assistant Professor at The University of Maine
+::: {.timeline-item}
+<span class="years">2016&ndash;2017</span>
+<span class="role">Assistant Professor, The University of Maine</span>
+:::
 
-- 2017-2020 : Principal Mathematician at The American Institutes for Research
+::: {.timeline-item}
+<span class="years">2013&ndash;2016</span>
+<span class="role">Olga-Tausky-Todd Instructor, Caltech</span>
+:::
 
-- 2020-present: Principal Data Scientist at Cambium Assessment 
+::: {.timeline-item}
+<span class="years">2010&ndash;2013</span>
+<span class="role">Lecturer and Research Fellow, La Trobe University</span>
+:::
+
+::: {.timeline-item}
+<span class="years">2008&ndash;2010</span>
+<span class="role">Postdoctoral Researcher, Melbourne University</span>
+:::
+
+:::
 
 # Awards and Honors
 
-- Co-chair of the NCME SIGIMIE on Artificial Intelligence in Measurement and Education, 2023
+::: {.plain-list}
+-   Co-chair of the NCME SIGIMIE on Artificial Intelligence in Measurement and Education, 2023
+-   Automated Scoring Challenge for The Nation's Report Card &mdash; Grand Prize Winner, 2021
+-   American Institutes for Research &mdash; Assessment's MVP, 2018
+-   ARC Discovery Project &mdash; Discrete Integrable Systems &mdash; Discovery Early Career Researcher Award, 2011&ndash;2013
+-   ARC Discovery Project &mdash; The Sakai scheme &ndash; Askey table correspondence, analogues of isomonodromy and determinantal point processes, 2009&ndash;2011
+-   Grant for AMSI Workshop on Nonlinear Dynamical Systems, 2012
+-   Isaac Newton Institute for Mathematical Sciences, Cambridge UK, Research Scholar, 2009
+:::
 
-- Automated Scoring Challenge for The Nation’s Report Card- Grand Prize Winner 2021
+# Teaching
 
-- American Institutes for Research - Assessment’s MVP -2018
-
-- ARC Discovery Project - Discrete Integrable Systems - Discovery Early Career Researcher Award - 2011-2013
-
-- ARC Discovery Project - The Sakai scheme - Askey table correspondence, analogues of isomonodromy and determinantal point processes, 2009 - 2011
-
-- Grant for AMSI Workshop on Nonlinear Dynamical Systems, 2012.
-
-- Isaac Newton Institute for Mathematical Sciences, Cambridge UK, Research Scholar 2009
-
-# Teaching 
-
-- Caltech, 2015, Combinatorial Analysis
-
-- Caltech, 2014, Galois Theory and Representation Theory.
-
-- Caltech, 2014, Combinatorial Analysis
-
-- Caltech, 2013, q-special functions with applications to integrable systems.
-
-- Caltech, 2013, Galois Theory and Representation Theory.
-
-- La Trobe University, 2010, Calculus and Linear algebra.
-
-- La Trobe University, 2010-2012, Scientific Computing.
-
-- La Trobe University, 2012, Discrete Integrable Systems
-
-- Sydney University, School of Physics, 2001-2002, Scientific Computing/Scientific Visualization.
-
-- Sydney University, School of Physics, 2003-2007, Computational Science in C.
-
-- Sydney University, School of Mathematics, 2004-2007, Linear Algebra, Calculus, ODEs.
-
-- University of New South Wales, Department of Mathematics, 2007, Calculus.
-
-- La Trobe University, Department of Mathematics, 2010, Vector Calculus, Linear Algebra.
+::: {.plain-list}
+-   Caltech, 2015, Combinatorial Analysis
+-   Caltech, 2014, Galois Theory and Representation Theory
+-   Caltech, 2014, Combinatorial Analysis
+-   Caltech, 2013, q-special functions with applications to integrable systems
+-   Caltech, 2013, Galois Theory and Representation Theory
+-   La Trobe University, 2010, Calculus and Linear Algebra
+-   La Trobe University, 2010&ndash;2012, Scientific Computing
+-   La Trobe University, 2012, Discrete Integrable Systems
+-   Sydney University, School of Physics, 2001&ndash;2002, Scientific Computing/Scientific Visualization
+-   Sydney University, School of Physics, 2003&ndash;2007, Computational Science in C
+-   Sydney University, School of Mathematics, 2004&ndash;2007, Linear Algebra, Calculus, ODEs
+-   University of New South Wales, Department of Mathematics, 2007, Calculus
+-   La Trobe University, Department of Mathematics, 2010, Vector Calculus, Linear Algebra
+:::

@@ -2,26 +2,27 @@
 title: "Courses"
 ---
 
-These are courses that I have taught in the past. 
+These are courses that I have taught in the past.
 
-## LaTrobe University
+<div class="section-rule"><span class="lbl">La Trobe University</span><div class="line"></div></div>
 
-- Scientific Computing (Junior year) - 2010-2013 - This course focused on numerical methods. Topics included numerical root finding, optimization, integration, and numerical differential equation solving. 
+::: {.plain-list}
+-   **Scientific Computing** (Junior year) &mdash; 2010&ndash;2013 &mdash; This course focused on numerical methods. Topics included numerical root finding, optimization, integration, and numerical differential equation solving.
+-   **Linear Algebra** (Freshman) &mdash; 2010 &mdash; Standard first year linear algebra course covering vectors, matrices, eigenvalues, and linear transformations.
+:::
 
-- Linear Algebra (Freshmen) - 2010 - Standard first year linear algebra course covering vectors, matrices, eigenvalues, and linear transformations. 
+<div class="section-rule"><span class="lbl">California Institute of Technology</span><div class="line"></div></div>
 
-## California Institute of Technology
+::: {.plain-list}
+-   **Galois Theory and Representation Theory** (Sophomore) &mdash; 2013&ndash;2016 &mdash; Field extensions, Galois groups, and representation theory.
+-   **Combinatorial Analysis** (Graduate) &mdash; 2015&ndash;2016 &mdash; Graph theory and other related combinatorial problems.
+-   **Quantum Calculus and q-Special Functions** (Graduate) &mdash; 2013 &mdash; The theory of discrete calculus and their associated discrete hypergeometric functions.
+:::
 
-- Galois theory and representation theory (Sophmore)- 2013-2016 - Field extensions, Galois groups, and representation theory.
+<div class="section-rule"><span class="lbl">University of Maine, Orono</span><div class="line"></div></div>
 
-- Combinatorial Analysis (Graduate) - 2015-2016 - Graph theory and other related combinatorial problems. 
-
-- Quantum calculus and q-special functions (Graduate) - 2013 - The theory of discrete calculus and their associated discrete hypergeometric functions. 
-
-## University of Main, Orono
-
-- Calculus 1 (Freshmen) -2017 - Standard course on differentiation, integration, and differential equations. 
-
-- Algebra (Graduate) -2016 - Course on Linear Algebra with a focus on Lie Algebras
-
-- Differential equations and linear algebra (Sophomore) - 2017 - A course on linear differential equations and abstract linear algebra. 
+::: {.plain-list}
+-   **Calculus 1** (Freshman) &mdash; 2017 &mdash; Standard course on differentiation, integration, and differential equations.
+-   **Algebra** (Graduate) &mdash; 2016 &mdash; Course on Linear Algebra with a focus on Lie Algebras.
+-   **Differential Equations and Linear Algebra** (Sophomore) &mdash; 2017 &mdash; A course on linear differential equations and abstract linear algebra.
+:::
