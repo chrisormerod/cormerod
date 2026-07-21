@@ -4,29 +4,29 @@ title: "Publications"
 
 # Artificial Intelligence
 
-- Scarlatos A, Fernandez N, Ormerod C, Lottridge S, Lan A (2025) SMART: Simulated Students Aligned with Item Response Theory for Question Difficulty Prediction [arXiv preprint arXiv:2505.22771](https://arxiv.org/pdf/2505.22771)
-- C Ormerod (2025) Automated Essay Scoring Incorporating Annotations from Automated Feedback Systems
-[arXiv preprint arXiv:2507.05129](https://arxiv.org/pdf/2507.05129)
-- North, K, Ormerod, C (2025) Cyborg Data: Merging Human with AI Generated Training Data
+- Ormerod, C. (2026, January). Reconstructing Item Characteristic Curves using Fine-Tuned Large Language Models [arXiv preprint arXiv:2601.02580](https://arxiv.org/pdf/2601.02580)
+- Ormerod, C. (2025, September). Long Context Automated Essay Scoring with Language Models [arXiv preprint arXiv:2509.10417](https://arxiv.org/pdf/2509.10417)
+- Scarlatos, A., Fernandez, N., Ormerod, C., Lottridge, S., & Lan, A. (2025). SMART: Simulated Students Aligned with Item Response Theory for Question Difficulty Prediction. In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)* [arXiv preprint arXiv:2507.05129](https://arxiv.org/pdf/2507.05129)
+- Ormerod, C. (2025). Automated Essay Scoring Incorporating Annotations from Automated Feedback Systems [arXiv preprint arXiv:2505.22771](https://arxiv.org/pdf/2505.22771)
+- North, K., & Ormerod, C. (2025). Cyborg Data: Merging Human with AI Generated Training Data
 [arXiv preprint arXiv:2503.22736](https://arxiv.org/pdf/2503.22736)
-- Ormerod, C., & Kwako, A. (2024) Automated Text Scoring in the Age of Generative AI for the GPU-poor [arXiv preprint arXiv:2408.01873](https://arxiv.org/pdf/2408.01873) 
 - Wang, Z., & Ormerod, C. (2024) Generative Language Models with Retrieval Augmented Generation for Automated Short Answer Scoring [arXiv preprint arXiv:2408.03811](https://arxiv.org/pdf/2408.03811) 
 - Kwako, A., & Ormerod, C. (2024). Can Language Models Guess Your Identity? Analyzing Demographic Biases in AI Essay Scoring. In Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024) (pp. 78-86).
-- Bulut, O., Beiting-Parrish, M., Casabianca, J. M., Slater, S. C., Jiao, H., Song, D., Ormerod, C. M., Fabiyi, D. G., Ivan, R., Walsh, C., et al. (2024). The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges [arXiv preprint arXiv:2406.18900].
-- Ormerod, C. M., & Kwako, A. (2024). Automated Text Scoring in the Age of Generative AI for the GPU-poor [arXiv preprint arXiv:2407.01873].
+- Bulut, O., Beiting-Parrish, M., Casabianca, J. M., Slater, S. C., Jiao, H., Song, D., Ormerod, C. M., Fabiyi, D. G., Ivan, R., Walsh, C., et al. (2024). The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges [arXiv preprint arXiv:2406.18900](https://arxiv.org/pdf/2406.18900).
+- Ormerod, C. M., & Kwako, A. (2024). Automated Text Scoring in the Age of Generative AI for the GPU-poor [arXiv preprint arXiv:2407.01873](https://arxiv.org/pdf/2407.01873).
 - Kwako, A., & Ormerod, C. (2024). Improving Transformer-Based Automated Scoring of K-12 Science Items.
-- Ormerod, C., Burkhardt, A., Young, M., & Lottridge, S. (2023, November). Argumentation Element Annotation Modeling using XLNet [arXiv preprint arXiv:2311.06239]. 
-- Ormerod, C. (2023, August). Using language models in the implicit automated assessment of mathematical short answer items [arXiv preprint arXiv:2308.11006]. https://arxiv.org/pdf/2306.11644
-- Ormerod, C. M., Patel, M., & Wang, H. (2023, May). Using Language Models to Detect Alarming Student Responses [arXiv preprint arXiv:2305.07709]. 
+- Ormerod, C., Burkhardt, A., Young, M., & Lottridge, S. (2023, November). Argumentation Element Annotation Modeling using XLNet [arXiv preprint arXiv:2311.06239](https://arxiv.org/pdf/2311.06239). 
+- Ormerod, C. (2023, August). Using language models in the implicit automated assessment of mathematical short answer items [arXiv preprint arXiv:2308.11006](https://arxiv.org/pdf/2308.11006)
+- Ormerod, C. M., Patel, M., & Wang, H. (2023, May). Using Language Models to Detect Alarming Student Responses [arXiv preprint arXiv:2305.07709](https://arxiv.org/pdf/2305.07709). 
 - Lottridge, S., Woolf, S., Young, M., Jafari, A., & Ormerod, C. (2023). The use of annotations to explain labels: Comparing results from a human-rater approach to a deep learning approach. Journal of Computer Assisted Learning, 39(3), 787-803. 
 - Lottridge, S., Ormerod, C., & Jafari, A. (2023). Psychometric considerations when using deep learning for automated scoring. In Advancing Natural Language Processing in Educational Assessment (pp. 15-25). Routledge.
 - Burkhardt, A. K., Lottridge, S., Woolf, S., & Ormerod, C. (n.d.). Defining At-Risk Student Responses.
 - Ormerod, C. M. (2022). Mapping between hidden states and features to validate automated essay scoring using deberta models. Psychological Test and Assessment Modeling, 64(4), 495-526. 
-- Ormerod, C. (2022, February). Short-answer scoring with ensembles of pretrained language models [arXiv preprint arXiv:2202.11558](https://arxiv.org/pdf/2305.16540)
-- Ormerod, C. M., Malhotra, A., & Jafari, A. (2021, February). Automated essay scoring using efficient transformer-based language models [arXiv preprint arXiv:2102.13136](https://arxiv.org/pdf/2305.11184)
-- Ormerod, C., Jafari, A., Lottridge, S., Patel, M., Harris, A., & van Wamelen, P. (2021, August). The effects of data size on Automated Essay Scoring engines [arXiv preprint arXiv:2108.13275](https://arxiv.org/pdf/2305.11184)
-- Rodriguez, P. U., Jafari, A., & Ormerod, C. M. (2019, September). Language models and automated essay scoring [arXiv preprint arXiv:1909.09482]. [https://arxiv.org/abs/1908.09079](https://arxiv.org/abs/1908.09079)
-- Ormerod, C. M., & Harris, A. E. (2018, September). Neural network approach to classifying alarming student responses to online assessment [arXiv preprint arXiv:1809.08899](https://arxiv.org/pdf/2003.03680)
+- Ormerod, C. (2022, February). Short-answer scoring with ensembles of pretrained language models [arXiv preprint arXiv:2202.11558](https://arxiv.org/pdf/2202.11558)
+- Ormerod, C. M., Malhotra, A., & Jafari, A. (2021, February). Automated essay scoring using efficient transformer-based language models [arXiv preprint arXiv:2102.13136](https://arxiv.org/pdf/2102.13136)
+- Ormerod, C., Jafari, A., Lottridge, S., Patel, M., Harris, A., & van Wamelen, P. (2021, August). The effects of data size on Automated Essay Scoring engines [arXiv preprint arXiv:2108.13275](https://arxiv.org/pdf/2108.13275)
+- Rodriguez, P. U., Jafari, A., & Ormerod, C. M. (2019, September). Language models and automated essay scoring [arXiv preprint arXiv:1909.09482](https://arxiv.org/pdf/1909.09482)
+- Ormerod, C. M., & Harris, A. E. (2018, September). Neural network approach to classifying alarming student responses to online assessment [arXiv preprint arXiv:1809.08899](https://arxiv.org/pdf/1809.08899)
 
 # Systems Biology
 
@@ -38,7 +38,7 @@ title: "Publications"
 # Mathematics
 
 - Ormerod, C. M., Rains, E. M. (2017). An elliptic Garnier system. *Communications in Mathematical Physics*, 355, 741-766. 
-- Ormerod, C. M., Rains, E. (2017). A symmetric difference-differential Lax pair for Painlevé VI. *Journal of Integrable Systems*, 2(1), xyx003. [invalid URL removed]
+- Ormerod, C. M., Rains, E. (2017). A symmetric difference-differential Lax pair for Painlevé VI. *Journal of Integrable Systems*, 2(1), xyx003. [arXiv preprint arXiv:1603.04393](https://arxiv.org/pdf/1603.04393)
 - Ormerod, C. M., Rains, E. M., & others (2016). Commutation relations and discrete Garnier systems. *SIGMA. Symmetry, Integrability and Geometry: Methods and Applications*, 12, 110.
 - Dzhamay, A., Maruno, K., & Ormerod, C. M. (2015). *Algebraic and Analytic Aspects of Integrable Systems and Painlevé Equations*. American Mathematical Soc.
 - Ormerod, C. M., Yamada, Y., & others (2015). From polygons to ultradiscrete Painlevé equations. *SIGMA. Symmetry, Integrability and Geometry: Methods and Applications*, 11, 056. 
@@ -52,10 +52,10 @@ title: "Publications"
 - Ormerod, C. (2011). A study of the associated linear problem for q-PV. *Journal of Physics A: Mathematical and Theoretical*, 44, 025201. 
 - Ormerod, C. M. (2011). The lattice structure of connection preserving deformations for q-Painlevé equations I. *SIGMA*, 7(045), 22. 
 - Ormerod, C. M., & others (2011). Symmetries in connection preserving deformations. *SIGMA. Symmetry, Integrability and Geometry: Methods and Applications*, 7, 049.
-- Ormerod, C. M. (2011). Reductions of lattice mKdV to q-PVI. [arXiv preprint arXiv:1112.2419]. (year: 2011)
+- Ormerod, C. M. (2011). Reductions of lattice mKdV to q-PVI. [arXiv preprint arXiv:1112.2419](https://arxiv.org/pdf/1112.2419)
 - Ormerod, C. M. (2010). Hypergeometric solutions to an ultradiscrete Painlevé equation. *J. Nonlinear Math. Phys*, 17, 87–102. 
 - Ormerod, C. (2007). Connection matrices for ultradiscrete linear problems. *Journal of Physics A: Mathematical and Theoretical*, 40(42), 12799. 
 - Field, C. M., & Ormerod, C. M. (2007). An ultradiscrete matrix version of the fourth Painlevé equation. *Advances in Difference Equations*, 2007(1), 96752.
 - Joshi, N., Nijhoff, F. W., & Ormerod, C. (2007). Lax pairs for ultra-discrete Painlevé cellular automata. *Journal of Physics A: Mathematical and General*, 37, L559. 
-- Ormerod, C. (2006). An ultradiscrete QRT mapping from tropical elliptic curves [arXiv preprint math-ph/0609060]. (year: 2006)
+- Ormerod, C. (2006). An ultradiscrete QRT mapping from tropical elliptic curves [arXiv preprint math-ph/0609060](https://arxiv.org/pdf/math-ph/0609060)
 - Joshi, N., & Ormerod, C. (2004). The General Theory of Linear Difference Equations over the Max-Plus Semi-Ring. *Studies in Applied Mathematics*, 118(1), 85-97. 
