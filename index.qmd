@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Dr Christopher Ormerod"
 ---
 
 ::: {.hero}
@@ -30,11 +30,10 @@ title: "Home"
 
 <p class="eyebrow">Data science &mdash; NLP &mdash; systems biology &mdash; integrable systems</p>
 
-# Structure, wherever you <em>look for it</em>
+<p class="lede">As an Executive Director of Natural Language Measurement at The College Board, I lead a team of researchers exploring the intersection of Natural Language Processing (NLP) and educational assessment.  My research focuses on leveraging the power of Large Language Models (LLMs) to automate scoring processes, improving efficiency and consistency.  I'm particularly excited about the potential of fine-tuned, open-source generative models to provide personalized, formative feedback to students, helping them learn and grow.  This exploration of cutting-edge AI techniques in education is a passion of mine, and I actively contribute to the field, co-chairing the National Council on Measurement and Education's (NCME) special interest group on AI in Measurement and Education (AIME). My academic background includes a PhD in Applied Mathematics, which has provided a strong foundation for my interdisciplinary research, spanning areas like NLP, educational measurement, pure and applied mathematics, and systems biology.</p>
 
-<p class="lede">I'm Christopher Ormerod. I work at the point where language models, biological networks, and the symmetries of discrete dynamical systems turn out to be asking the same kinds of questions.</p>
-
-<p class="role"><b>Principal Data Scientist</b>, Cambium Assessment &middot; Co-chair, <a href="https://www.ncme-aime.org">NCME&nbsp;AIME</a></p>
+<p class="role"><b>Executive Director of Natural Language Measurement</b>, College Board</b></p> 
+<p>Co-chair of <a href="https://www.ncme-aime.org">AI in Measurement and Education</a> (A NCME Special interest group)</p>
 
 <p class="role">
 <a href="mailto:"><img src="images/mail.256x256.png" width="22" style="vertical-align:middle;margin-right:10px;"></a>
