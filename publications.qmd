@@ -6,6 +6,10 @@ title: "Publications"
 
 # Artificial Intelligence
 
+
+-   Ormerod, C., & Kim, Y. K. (2026, August). Multimodal Item Parameter Estimation using Simulated Response Probabilitie. [[arXiv:2608.10154](https://arxiv.org/pdf/2608.10154)]{.tag-arxiv}
+-   Ormerod, C., & Kehat, G. (2026, April). Detecting Alarming Student Verbal Responses using Text and Audio Classifier. [[arXiv:2604.16717](https://arxiv.org/pdf/2604.16717)]{.tag-arxiv}
+-   Kwako, A., Lottridge, S., & Ormerod, C. (2026). Using confidence modeling to optimize overall score quality in hybrid scoring systems. *Educational Measurement: Issues and Practice*, 45(2), e70019.
 -   Ormerod, C. (2026, January). Reconstructing Item Characteristic Curves using Fine-Tuned Large Language Models. [[arXiv:2601.02580](https://arxiv.org/pdf/2601.02580)]{.tag-arxiv}
 -   Ormerod, C. (2025, September). Long Context Automated Essay Scoring with Language Models. [[arXiv:2509.10417](https://arxiv.org/pdf/2509.10417)]{.tag-arxiv}
 -   Scarlatos, A., Fernandez, N., Ormerod, C., Lottridge, S., & Lan, A. (2025). SMART: Simulated Students Aligned with Item Response Theory for Question Difficulty Prediction. In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*. [[arXiv:2507.05129](https://arxiv.org/pdf/2507.05129)]{.tag-arxiv}
