@@ -14,7 +14,12 @@ title: "Experience"
 ::: {.timeline}
 
 ::: {.timeline-item}
-<span class="years">2020&ndash;present</span>
+<span class="years">2026&ndash;present</span>
+<span class="role">Executive Director of Natural Language Measurement, College Board</span>
+:::
+
+::: {.timeline-item}
+<span class="years">2020&ndash;2026</span>
 <span class="role">Principal Data Scientist, Cambium Assessment</span>
 :::
 
@@ -48,6 +53,7 @@ title: "Experience"
 # Awards and Honors
 
 ::: {.plain-list}
+-   National Council on Measurement in Education (NCME) &mdash; Service Award, 2026
 -   Co-chair of the NCME SIGIMIE on Artificial Intelligence in Measurement and Education, 2023
 -   Automated Scoring Challenge for The Nation's Report Card &mdash; Grand Prize Winner, 2021
 -   American Institutes for Research &mdash; Assessment's MVP, 2018

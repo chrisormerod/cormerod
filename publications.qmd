@@ -7,18 +7,23 @@ title: "Publications"
 # Artificial Intelligence
 
 
--   Ormerod, C., & Kim, Y. K. (2026, August). Multimodal Item Parameter Estimation using Simulated Response Probabilitie. [[arXiv:2608.10154](https://arxiv.org/pdf/2608.10154)]{.tag-arxiv}
+-   Kim, Y. K., & Ormerod, C. (2026). Detecting Invalid Responses in Automated Essay Scoring with Fine-Tuned Large Language Models. In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Coordinated Session Papers* (pp. 31&ndash;38).
+-   North, K., & Ormerod, C. (2026). Generative Language Models for Argumentation Annotation. In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Full Papers* (pp. 387&ndash;397).
+-   North, K., Ormerod, C., Kwako, A., & Han, S. (2026). Math Item Difficulty Prediction with Multimodal Input. In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Full Papers* (pp. 380&ndash;386).
+-   Fernandez, N., Scarlatos, A., Ormerod, C., & Lan, A. (2026). CAP: Cross-Ability Preferences to Align Student Simulators for Item Difficulty Prediction. In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Full Papers* (pp. 332&ndash;344).
+-   Ormerod, C., & Kim, Y. K. (2026). Multimodal Item Parameter Estimation using Simulated Response Probabilities. In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Full Papers* (pp. 83&ndash;91). [[arXiv:2608.10154](https://arxiv.org/pdf/2608.10154)]{.tag-arxiv}
+-   Ormerod, C. (2026). Automated Scoring of Long-Context Essays Using Linear-Complexity Language Models. *Journal of Educational Measurement*. [[doi:10.1111/jedm.70064](https://doi.org/10.1111/jedm.70064)]
 -   Ormerod, C., & Kehat, G. (2026, April). Detecting Alarming Student Verbal Responses using Text and Audio Classifier. [[arXiv:2604.16717](https://arxiv.org/pdf/2604.16717)]{.tag-arxiv}
 -   Kwako, A., Lottridge, S., & Ormerod, C. (2026). Using confidence modeling to optimize overall score quality in hybrid scoring systems. *Educational Measurement: Issues and Practice*, 45(2), e70019.
 -   Ormerod, C. (2026, January). Reconstructing Item Characteristic Curves using Fine-Tuned Large Language Models. [[arXiv:2601.02580](https://arxiv.org/pdf/2601.02580)]{.tag-arxiv}
--   Ormerod, C. (2025, September). Long Context Automated Essay Scoring with Language Models. [[arXiv:2509.10417](https://arxiv.org/pdf/2509.10417)]{.tag-arxiv}
+-   Ormerod, C., & Kehat, G. (2025). Long Context Automated Essay Scoring with Language Models. In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Full Papers* (pp. 35&ndash;42). [[arXiv:2509.10417](https://arxiv.org/pdf/2509.10417)]{.tag-arxiv}
 -   Scarlatos, A., Fernandez, N., Ormerod, C., Lottridge, S., & Lan, A. (2025). SMART: Simulated Students Aligned with Item Response Theory for Question Difficulty Prediction. In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*. [[arXiv:2507.05129](https://arxiv.org/pdf/2507.05129)]{.tag-arxiv}
--   Ormerod, C. (2025). Automated Essay Scoring Incorporating Annotations from Automated Feedback Systems. [[arXiv:2505.22771](https://arxiv.org/pdf/2505.22771)]{.tag-arxiv}
+-   Ormerod, C. (2025). Automated Essay Scoring Incorporating Annotations from Automated Feedback Systems. In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Coordinated Session Papers* (pp. 9&ndash;18). [[arXiv:2505.22771](https://arxiv.org/pdf/2505.22771)]{.tag-arxiv}
 -   North, K., & Ormerod, C. (2025). Cyborg Data: Merging Human with AI Generated Training Data. [[arXiv:2503.22736](https://arxiv.org/pdf/2503.22736)]{.tag-arxiv}
 -   Wang, Z., & Ormerod, C. (2024). Generative Language Models with Retrieval Augmented Generation for Automated Short Answer Scoring. [[arXiv:2408.03811](https://arxiv.org/pdf/2408.03811)]{.tag-arxiv}
 -   Kwako, A., & Ormerod, C. (2024). Can Language Models Guess Your Identity? Analyzing Demographic Biases in AI Essay Scoring. In *Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024)* (pp. 78&ndash;86).
 -   Bulut, O., Beiting-Parrish, M., Casabianca, J. M., Slater, S. C., Jiao, H., Song, D., Ormerod, C. M., Fabiyi, D. G., Ivan, R., Walsh, C., et al. (2024). The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges. [[arXiv:2406.18900](https://arxiv.org/pdf/2406.18900)]{.tag-arxiv}
--   Ormerod, C. M., & Kwako, A. (2024). Automated Text Scoring in the Age of Generative AI for the GPU-poor. [[arXiv:2407.01873](https://arxiv.org/pdf/2407.01873)]{.tag-arxiv}
+-   Ormerod, C. M., & Kwako, A. (2024). Automated Text Scoring in the Age of Generative AI for the GPU-poor. *Chinese/English Journal of Educational Measurement and Evaluation*, 5(3). [[arXiv:2407.01873](https://arxiv.org/pdf/2407.01873)]{.tag-arxiv}
 -   Kwako, A., & Ormerod, C. (2024). Improving Transformer-Based Automated Scoring of K-12 Science Items.
 -   Ormerod, C., Burkhardt, A., Young, M., & Lottridge, S. (2023, November). Argumentation Element Annotation Modeling using XLNet. [[arXiv:2311.06239](https://arxiv.org/pdf/2311.06239)]{.tag-arxiv}
 -   Ormerod, C. (2023, August). Using language models in the implicit automated assessment of mathematical short answer items. [[arXiv:2308.11006](https://arxiv.org/pdf/2308.11006)]{.tag-arxiv}
